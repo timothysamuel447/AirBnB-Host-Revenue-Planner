@@ -1,4 +1,4 @@
-This model introduces a predictive model designed to estimate revenue for Airbnb properties in Dallas. This model leverages historical data by conducting exploratory data analysis (EDA), building the model, and identifying key features. Our comprehensive analysis focuses on identifying factors that significantly influence revenue, such as property characteristics, socio-economic elements, and seasonal trends.
+This project introduces a predictive model designed to estimate revenue for Airbnb properties in Dallas. This model leverages historical data by conducting exploratory data analysis (EDA), building the model, and identifying key features. Our comprehensive analysis focuses on identifying factors that significantly influence revenue, such as property characteristics, socio-economic elements, and seasonal trends.
 
 For Pre-Processing, we: Removed Irrelevant Records, Handled Missing values & Floored/Capped Outliers.
 
