@@ -4,11 +4,11 @@ For Pre-Processing, we: Removed Irrelevant Records, Handled Missing values & Flo
 
 -Methodology-
 
-<<bulletpoint></bulletpoint>Developed a high-accuracy XG Boost model with low interpretability.
+>Developed a high-accuracy XG Boost model with low interpretability.
 
-<<bulletpoint></bulletpoint>Fine-tuned XG Boost Model using Grid Search optimization technique.
+>Fine-tuned XG Boost Model using Grid Search optimization technique.
 
-<<bulletpoint></bulletpoint>Selected key variables of importance from XG Boost model and developed Backward Regression model using important variables in order to provide actionable insights.
+>Selected key variables of importance from XG Boost model and developed Backward Regression model using important variables in order to provide actionable insights.
 
 
 
