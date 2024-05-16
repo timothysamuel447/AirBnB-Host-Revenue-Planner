@@ -2,7 +2,7 @@ This model introduces a predictive model designed to estimate revenue for Airbnb
 
 For Pre-Processing, we: Removed Irrelevant Records, Handled Missing values & Floored/Capped Outliers.
 
-#-Methodology-
+-Methodology-
 
 -Developed a high-accuracy XG Boost model with low interpretability.
 
