@@ -2,13 +2,13 @@ This model introduces a predictive model designed to estimate revenue for Airbnb
 
 For Pre-Processing, we: Removed Irrelevant Records, Handled Missing values & Floored/Capped Outliers.
 
--Methodology-
+#-Methodology-
 
->Developed a high-accuracy XG Boost model with low interpretability.
+-Developed a high-accuracy XG Boost model with low interpretability.
 
->Fine-tuned XG Boost Model using Grid Search optimization technique.
+-Fine-tuned XG Boost Model using Grid Search optimization technique.
 
->Selected key variables of importance from XG Boost model and developed Backward Regression model using important variables in order to provide actionable insights.
+-Selected key variables of importance from XG Boost model and developed Backward Regression model using important variables in order to provide actionable insights.
 
 
 
